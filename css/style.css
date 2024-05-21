@@ -33,3 +33,43 @@ h1 {
     font-size: 20px;
 }
 
+.list_label {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    padding: 5px;
+}
+
+.light_blue {
+    background-color: rgb(84, 212, 255);
+    border-radius: 10px;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
+.purple {
+    background-color: purple;
+    border-radius: 10px;
+}
+
+.green {
+    background-color: rgb(113, 128, 28);
+    border-radius: 10px;
+}
+
+.orange {
+    background-color: orange;
+    border-radius: 10px;
+}
+
+.water {
+    background-color: rgb(0, 128, 85);
+    border-radius: 10px;
+}
+
+.pink {
+    background-color: pink;
+    border-radius: 10px;
+}
