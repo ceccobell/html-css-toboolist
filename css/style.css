@@ -9,3 +9,22 @@ h1 {
     font-size: 50px;
 }
 
+.label {
+    color: white;
+    background-color: rgb(84, 212, 255);
+    height: 30px;
+    width: 90px;
+    border-color: rgb(168, 168, 168);
+    border-radius: 7px;
+    border: none;
+}
+
+.label_two {
+    color: grey;
+    background-color: white;
+    height: 30px;
+    width: 90px;
+    border-color: rgb(168, 168, 168);
+    border-radius: 7px;
+    border: 1px solid;
+}
