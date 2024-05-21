@@ -50,6 +50,14 @@ li {
     list-style: "\2BC6";
 }
 
+.marker_ok {
+    list-style: "\2713";
+}
+
+.marker_no {
+    list-style: "\2717";
+}
+
 .purple {
     background-color: purple;
     border-radius: 10px;
