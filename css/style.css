@@ -5,8 +5,9 @@
 }  
 
 .container {
-    width: 1200px;
-    padding-left: 200px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
@@ -36,6 +37,7 @@ h1 {
 
 .title_list {
     font-size: 20px;
+    margin-bottom: ;
 }
 
 .list_label {
